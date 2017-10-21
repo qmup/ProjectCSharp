@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "PetCareSystem\GUI.csproj", "{20C143D7-624F-420A-A3D1-4B64CB0DF160}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{B0FAF72C-F49F-4FF7-8FCB-B6E4A337BFD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUS", "BUS\BUS.csproj", "{F1665E19-6D3E-4FDB-9A99-7FC042E44268}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20C143D7-624F-420A-A3D1-4B64CB0DF160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C143D7-624F-420A-A3D1-4B64CB0DF160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C143D7-624F-420A-A3D1-4B64CB0DF160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C143D7-624F-420A-A3D1-4B64CB0DF160}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0FAF72C-F49F-4FF7-8FCB-B6E4A337BFD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0FAF72C-F49F-4FF7-8FCB-B6E4A337BFD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0FAF72C-F49F-4FF7-8FCB-B6E4A337BFD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0FAF72C-F49F-4FF7-8FCB-B6E4A337BFD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1665E19-6D3E-4FDB-9A99-7FC042E44268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1665E19-6D3E-4FDB-9A99-7FC042E44268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1665E19-6D3E-4FDB-9A99-7FC042E44268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1665E19-6D3E-4FDB-9A99-7FC042E44268}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

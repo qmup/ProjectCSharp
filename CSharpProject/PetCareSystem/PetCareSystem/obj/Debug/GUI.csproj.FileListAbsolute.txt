@@ -1,0 +1,16 @@
+C:\Users\Quan Nguyen Minh\Desktop\CSharpProject\PetCareSystem\PetCareSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Quan Nguyen Minh\Desktop\CSharpProject\PetCareSystem\PetCareSystem\obj\Debug\App.g.cs
+C:\Users\Quan Nguyen Minh\Desktop\CSharpProject\PetCareSystem\PetCareSystem\obj\Debug\PetCareSystem_MarkupCompile.cache
+C:\Users\Quan Nguyen Minh\Desktop\CSharpProject\PetCareSystem\PetCareSystem\obj\Debug\PetCareSystem_MarkupCompile.lref
+C:\Users\Quan Nguyen Minh\Desktop\CSharpProject\PetCareSystem\PetCareSystem\bin\Debug\PetCareSystem.exe.config
+C:\Users\Quan Nguyen Minh\Desktop\CSharpProject\PetCareSystem\PetCareSystem\bin\Debug\PetCareSystem.exe
+C:\Users\Quan Nguyen Minh\Desktop\CSharpProject\PetCareSystem\PetCareSystem\bin\Debug\PetCareSystem.pdb
+C:\Users\Quan Nguyen Minh\Desktop\CSharpProject\PetCareSystem\PetCareSystem\bin\Debug\BUS.exe
+C:\Users\Quan Nguyen Minh\Desktop\CSharpProject\PetCareSystem\PetCareSystem\bin\Debug\BUS.pdb
+C:\Users\Quan Nguyen Minh\Desktop\CSharpProject\PetCareSystem\PetCareSystem\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Quan Nguyen Minh\Desktop\CSharpProject\PetCareSystem\PetCareSystem\obj\Debug\MainWindow.baml
+C:\Users\Quan Nguyen Minh\Desktop\CSharpProject\PetCareSystem\PetCareSystem\obj\Debug\PetCareSystem.g.resources
+C:\Users\Quan Nguyen Minh\Desktop\CSharpProject\PetCareSystem\PetCareSystem\obj\Debug\PetCareSystem.Properties.Resources.resources
+C:\Users\Quan Nguyen Minh\Desktop\CSharpProject\PetCareSystem\PetCareSystem\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Quan Nguyen Minh\Desktop\CSharpProject\PetCareSystem\PetCareSystem\obj\Debug\PetCareSystem.exe
+C:\Users\Quan Nguyen Minh\Desktop\CSharpProject\PetCareSystem\PetCareSystem\obj\Debug\PetCareSystem.pdb
